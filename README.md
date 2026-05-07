@@ -1,7 +1,3 @@
-تمام 👌 ده **README مرتب واحترافي أكثر** وفيه توضيح واضح لتأثير الطقس ودرجة الحرارة وworking days بشكل أقوى:
-
----
-
 # 🚲 Bike Rental Data Analysis
 
 ## 📌 Project Overview
